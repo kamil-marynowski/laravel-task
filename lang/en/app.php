@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'delete' => 'Delete',
+    'details' => 'Details',
+    'edit' => 'Edit',
+    'save' => 'Save',
+    'name' => 'Name',
+    'description' => 'Description',
+    'prices' => 'Prices',
+    'new_product' => 'New product',
+    'dashboard' => 'Dashboard',
+    'products' => 'Products',
+    'search' => 'Search',
+    'delete_confirmation' => 'Delete confirmation',
+    'are_you_sure_you_want_to_delete' => 'Are you sure you want to delete?',
+    'cancel' => 'Cancel',
+    'edit_product' => 'Edit product',
+    'new_price' => 'New price',
+    'id' => 'Id',
+    'net' => 'Net',
+    'gross' => 'Gross',
+    'vat' => 'Vat',
+    'product' => 'Product',
+    'vat_percentage' => 'Vat %',
+    'edit_price' => 'Edit price',
+];
